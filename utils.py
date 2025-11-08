@@ -16,5 +16,6 @@ COLORS = {
     'PURPLE': (128, 0, 128),      # path
     'ORANGE': (255, 165 ,0),      # nodes being considered
     'GREY': (128, 128, 128),      # grid lines
-    'TURQUOISE': (64, 224, 208)   # neighbor nodes
+    'TURQUOISE': (64, 224, 208),   # neighbor nodes
+    'LIGHT_GREY': (200, 200, 200)
 }
